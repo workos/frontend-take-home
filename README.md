@@ -2,21 +2,21 @@
 
 Welcome to the WorkOS Frontend Take-Home Assignment!
 
-In this exercise, you'll implement the UI for a simple two-tab layout that lists users and roles. You will also provide limited functionality for updating users and roles.
+In this exercise, you'll implement the UI for a simple two-tab layout that lists users and roles. You will also add limited functionality to update users and roles.
 
-To get you started, we've included a [Figma design file](https://www.figma.com/design/fx1owLKquaBVfw6kt0Dy94/WorkOS---Frontend-Take-Home-Assignment?node-id=1-40&node-type=canvas&t=MiCSu7HNzqbeCLZ9-0) and a fully functional backend API. You won't need to implement all of the functionality that is implied by the design and the backend API, so be sure to follow the set of tasks listed below.
+To get you started, we've included a [Figma design file](https://www.figma.com/design/fx1owLKquaBVfw6kt0Dy94/WorkOS---Frontend-Take-Home-Assignment?node-id=1-40&node-type=canvas&t=MiCSu7HNzqbeCLZ9-0) and a fully functional backend API. Keep in mind, you won’t need to implement all of the functionality implied by the design or backend API. Make sure to focus on the specific tasks outlined below.
 
-Feel free to use any frontend framework and libraries you prefer. You don't have to build everything from scratch — that isn't what you'd be doing here at WorkOS, since we use our own [Radix Themes](https://www.radix-ui.com/). If asked, be ready to explain why you chose specific libraries and how they benefit the project.
+Feel free to use any frontend framework and libraries you prefer — there’s no need to build everything from scratch. At WorkOS, we use [Radix Themes](https://www.radix-ui.com/), and it's perfectly fine if you want to leverage similar libraries. Just be ready to explain your decisions, including why you chose certain libraries and how they benefit the project.
 
 If you have any questions, feel free to reach out — we're happy to clarify anything.
 
 ## Time Consideration
 
-We value your time! If the assignment takes you more than 8 hours, submit what you have.
+We value your time! If this assignment takes you more than 8 hours, please submit whatever you have at that point.
 
-Focus on quality. You should be proud of your submission. The code should be good enough for a demo, even if it is not 100% production ready.
+Focus on quality. You should be proud of your submission. While the code doesn't need to be 100% production-ready, it should be polished enough for a demo.
 
-Include a README outlining what you'd improve or do differently if you had more time.
+Be sure to include a README that outlines what you'd improve or do differently if you had more time.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ Include a README outlining what you'd improve or do differently if you had more 
 
 Access the [Figma Design File](https://www.figma.com/design/fx1owLKquaBVfw6kt0Dy94/WorkOS---Frontend-Take-Home-Assignment?node-id=1-40&node-type=canvas&t=MiCSu7HNzqbeCLZ9-0) for the initial design of the "Users" tab.
 
-**Note**: The design is a starting point—you'll need to fill in some details (e.g., loading states, error states, hover states). The "Roles" tab is not designed, so you'll create a design based on the "Users" tab.
+**Note**: The design is a starting point — you'll need to fill in some details (e.g., loading states, error states, hover states). The "Roles" tab is not designed, so you'll infer the design based on what is provided for the "Users" tab.
 
 ## Backend API
 
@@ -43,7 +43,7 @@ The API provides full CRUD support for users and roles, but you won’t need to 
 
 **Do not alter the backend API**.
 
-The API includes intentional latency and random server errors to simulate real-world scenarios. Ensure your frontend handles these gracefully.
+The API includes intentional latency and random server errors to simulate real-world scenarios. Ensure your front-end handles these gracefully.
 
 You can adjust the API speed using the `SERVER_SPEED` environment variable:
 
@@ -74,15 +74,15 @@ We’ll evaluate based on the following:
 - **Error & Loading States**: Graceful handling of API delays and errors.
 - **CSS Animations**: Best practices followed for smooth UI interactions.
 - **Code Quality**: Clean, well-structured, and maintainable code.
-- **Accessibility**: Keyboard navigability and a11y considerations.
+- **Accessibility**: Keyboard navigation and accessibility considerations.
 
 ## Submission Guidelines
 
-**Do not submit a pull request against the WorkOS repo.**
+**Please do not submit a pull request to the WorkOS repo.**
 
-In the forked repository, include a README explaining:
+In your forked repository, include a README that explains:
 
 - How to run your project.
-- What you'd improve or do differently if you had more time.
+- What you would improve or do differently if you had more time.
 
-Share your GitHub repo URL with us. Ensure your code runs locally based on the instructions provided in your README.
+Once you're ready, share the URL to your GitHub repository with us. Make sure your code runs locally based on the instructions in your README.
