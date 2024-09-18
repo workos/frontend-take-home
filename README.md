@@ -35,7 +35,11 @@ Be sure to include a README that outlines what you'd improve or do differently i
 
 Access the [Figma Design File](https://www.figma.com/design/fx1owLKquaBVfw6kt0Dy94/WorkOS---Frontend-Take-Home-Assignment?node-id=1-40&node-type=canvas&t=MiCSu7HNzqbeCLZ9-0) for the initial design of the "Users" tab.
 
-**Note**: The design is a starting point — you'll need to fill in some details (e.g., loading states, error states, hover states). The "Roles" tab is not designed, so you'll infer the design based on what is provided for the "Users" tab.
+_**Note:** Please be sure to sign in to Figma. You only are only able to explore properties of the layers, frames, components, etc when signed in._
+
+The design is a starting point — you'll need to fill in some details (e.g., loading states, error states, hover states). The "Roles" tab is not designed, so you'll infer the design based on what is provided for the "Users" tab.
+
+For those portions of the exercise in which the design is given, your implementation should match the design as closely as possible. Attention to detail is important. If you feel your implementation improves upon the design in some way, that is certainly acceptable, but please explain how so your README.
 
 ## Backend API
 
