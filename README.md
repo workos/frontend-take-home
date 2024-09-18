@@ -39,7 +39,7 @@ _**Note:** Please be sure to sign in to Figma. You only are only able to explore
 
 The design is a starting point — you'll need to fill in some details (e.g., loading states, error states, hover states). The "Roles" tab is not designed, so you'll infer the design based on what is provided for the "Users" tab.
 
-For those portions of the exercise in which the design is given, your implementation should match the design as closely as possible. Attention to detail is important. If you feel your implementation improves upon the design in some way, that is certainly acceptable, but please explain how so your README.
+For those portions of the exercise in which the design is given, your implementation should match the design as closely as possible. Attention to detail is important. It is certainly acceptable to deviate from the design if you are confident it is an improvement, but please explain your thinking in your README.
 
 ## Backend API
 
